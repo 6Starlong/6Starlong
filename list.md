@@ -9,3 +9,6 @@
 ## Oh My Posh
 全平台终端提示符个性化工具
 > [https://sspai.com/post/69911](https://sspai.com/post/69911)
+
+## RuTracker
+ http://rutracker.org/forum/index.php
